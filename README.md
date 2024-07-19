@@ -11,8 +11,6 @@
   </a> 
 </p>
 
-- 📫 How to reach me *akrogith777@gmail.com*
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -57,6 +55,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogith&show_icons=true&locale=en&layout=compact" alt="rogith" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogith&" alt="rogith" />
 </p>
 
