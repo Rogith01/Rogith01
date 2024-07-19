@@ -2,14 +2,15 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rogith&label=Profile%20views&color=0e75b6&style=flat" alt="rogith" /> 
+  <img src="https://komarev.com/ghpvc/?username=rogith01&label=Profile%20views&color=0e75b6&style=flat" alt="rogith01" /> 
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rogith" alt="rogith" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rogith01" alt="rogith01" />
   </a> 
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -40,9 +41,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
@@ -50,15 +48,15 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogith&show_icons=true&theme=merko&locale=en" alt="rogith" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rogith01&show_icons=true&theme=merko&locale=en" alt="rogith01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogith&show_icons=true&locale=en&layout=compact" alt="rogith" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogith01&show_icons=true&locale=en&layout=compact" alt="rogith01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogith&" alt="rogith" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogith01&" alt="rogith01" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
